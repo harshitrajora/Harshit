@@ -1,28 +1,16 @@
-<img src="https://svgshare.com/i/xdh.svg" width="100%" />
+![Greeting](Images/heading.png)
 
-# 👋 Hi, Harshit here!
+- 🏛️ Thrid year Student at IIT Guwahati.
 
-- 🎓 B.Tech Student at [IIT Guwahati]
-- 🚀 Passionate about Competitive Programming and Web Development
-- 💻 Learning React, Node.js, and building coding platforms like ZCoder
-- 📈 Specialist(@1451) on Codeforces.
+- 🌱 I’m currently learning **Competitive programming, Django and Nodejs**
 
-### 📫 Connect with me:
-[![Gmail](https://img.shields.io/badge/Email-harshit@example.com-red?style=flat-square&logo=gmail)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=flat-square&logo=instagram)](https://instagram.com/yourprofile)
+- 💬 Ask me anything
 
----
+- 📫 Feel free to contact me **harshitrajora202@gmail.com, [Instagram](https://www.instagram.com/_dropthrifts/),  and [LinkedIn](https://www.linkedin.com/in/harshitrajora20/)**
 
-### 🛠️ Languages and Tools:
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-> 💡 *“The best way to predict the future is to build it.”*
 
+![Take care](Images/Ending.png)
