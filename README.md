@@ -1,12 +1,12 @@
 ![Greeting](Images/heading.png)
 
-- 🏛️ Thrid year Student at IIT Guwahati.
+- 🏛️ Final year at IIT Guwahati Computer Science and Engineering
 
 - 🌱 I’m currently learning **Competitive programming, Django and Nodejs**
 
 - 💬 Ask me anything
 
-- 📫 Feel free to contact me **harshitrajora202@gmail.com, [Instagram](https://www.instagram.com/_dropthrifts/),  and [LinkedIn](https://www.linkedin.com/in/harshitrajora20/)**
+- 📫 Feel free to contact me **tanishverma012@gmail.com, [Instagram](https://www.instagram.com/tanish__verma012/),  and [LinkedIn](https://www.linkedin.com/in/tanish-verma012/)**
 
 
 <h3 align="left">Languages and Tools:</h3>
